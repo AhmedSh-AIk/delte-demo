@@ -1,2 +1,8 @@
 # delte-demo
 This is a demo for git &amp; git-hub class
+
+# Teacher
+Shardha khapra
+
+# Student
+Ahmed
